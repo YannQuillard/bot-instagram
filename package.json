@@ -1,0 +1,19 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "Bot pour instagram",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "YannQ",
+  "license": "ISC"
+}
